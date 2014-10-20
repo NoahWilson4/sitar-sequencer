@@ -1,0 +1,260 @@
+
+body {
+	background: black;
+}
+
+.main{
+	width: 800px;
+	height: 600px;
+	margin: auto;
+	margin-top: 50px;
+	border: 1px solid lightgray;
+	background-image: url('../images/palo.jpg');
+	background-size: 800px 600px;
+	border-radius: 15px;
+	position: relative;
+}
+
+.palopic{
+	background-image: url('../images/palo.jpg');
+}
+
+.dhalopic {
+	background-image: url('../images/dhalo.jpg');
+}
+
+.nilopic {
+	background-image: url('../images/nilo.jpg');
+}
+
+.sapic {
+	background-image: url('../images/sa.jpg');
+}
+
+.repic {
+	background-image: url('../images/re.jpg');
+}
+
+.gapic {
+	background-image: url('../images/ga.jpg');
+}
+
+.mapic {
+	background-image: url('../images/ma.jpg');
+}
+
+.papic {
+	background-image: url('../images/pa.jpg');
+}
+
+.dhapic {
+	background-image: url('../images/dha.jpg');
+}
+
+.nipic {
+	background-image: url('../images/ni.jpg');
+}
+
+.sahipic {
+	background-image: url('../images/sahi.jpg');
+}
+
+.rehipic {
+	background-image: url('../images/rehi.jpg');
+}
+
+.gahipic {
+	background-image: url('../images/gahi.jpg');
+}
+
+.pa-lo {
+position: absolute;
+top: 104px;
+left: 597px;
+}
+
+.dha-lo {
+position: absolute;
+top: 125px;
+left: 557px;
+}
+
+.ni-lo {
+position: absolute;
+top: 148px;
+left: 512px;
+}
+
+.sa {
+position: absolute;
+top: 168px;
+left: 465px;
+}
+
+.re {
+position: absolute;
+top: 187px;
+left: 419px;
+}
+
+.ga {
+position: absolute;
+top: 199px;
+left: 398px;
+}
+
+.ma {
+position: absolute;
+top: 215px;
+left: 364px; 
+}
+
+.pa {
+position: absolute;
+top: 233px;
+left: 338px;
+}
+
+.dha {
+position: absolute;
+top: 242px;
+left: 317px;
+}
+
+.ni {
+position: absolute;
+top: 248px;
+left: 295px;
+}
+
+.sa-hi {
+position: absolute;
+top: 255px;
+left: 275px;
+}
+
+.re-hi{
+position: absolute;
+top: 268px;
+left: 254px;
+}
+
+.ga-hi {
+position: absolute;
+top: 275px;
+left: 239px;
+}
+
+.note{
+	background: transparent;
+	width: 19px;
+	height: 60px;
+	/*border: 1px solid lightgray;*/
+	border-radius: 5px;
+	margin: 5px;
+	color: transparent;
+}
+
+.bowl {
+	width: 211px;
+height: 120px;
+position: absolute;
+top: 471px;
+left: 544px;
+/*border: 1px solid white;*/
+background: transparent;
+}
+
+.drone {
+	position: absolute;
+top: 300px;
+left: 143px;
+width: 90px;
+}
+
+.strings {
+position: absolute;
+top: 350px;
+width: 90px;
+left: 44px;
+}
+
+.tabla {
+bottom: -48px;
+left: 20px;
+background: -webkit-linear-gradient(rgb(139, 115, 71),rgb(75, 73, 58));
+position: absolute;
+padding: 10px 13px;
+border-radius: 11px;
+color: white;
+}
+
+.info {
+	color: rgb(107, 95, 64);
+position: absolute;
+bottom: -44px;
+right: 50px;
+}
+
+.noteBox {
+background: transparent;
+width: 1006px;
+height: 22px;
+
+}
+
+.block {
+width: 80px;
+border-top: 1px solid rgb(98, 98, 98);
+height: 21px;
+display: inline-block;
+border-bottom: 1px solid rgb(98, 98, 98);
+background: -webkit-linear-gradient(left, rgb(37, 36, 34), black);
+}
+
+
+
+.label {
+width: 50px;
+padding: 5px;
+color: white;
+text-align: center;
+vertical-align: top;
+background: transparent;
+display: inline-block;
+height: 0px;
+}
+
+
+
+.on {
+background: -webkit-linear-gradient(rgb(253, 155, 24), rgb(152, 52, 29));
+}
+
+.box {
+width: 476px;
+position: absolute;
+margin: 20px auto;
+top: 630px;
+left: 20px;
+background: transparent;
+}
+
+.flash {
+background: -webkit-linear-gradient(left, rgb(52, 78, 87), black);
+}
+.on {
+	background: -webkit-linear-gradient(rgb(240, 208, 107), rgb(182, 101, 8));
+}
+
+.controls {
+	margin: 10px 20px;
+}
+
+.play {
+	margin: 10px 20px;
+}
+
+
+
+
