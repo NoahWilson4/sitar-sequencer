@@ -3,11 +3,17 @@ body {
 	background: black;
 }
 
+.header{
+	text-align: center;
+	color: rgb(107, 95, 64);
+	margin-top: 20px;
+}
+
 .main{
 	width: 800px;
 	height: 600px;
 	margin: auto;
-	margin-top: 50px;
+	margin-top: 7px;
 	border: 1px solid lightgray;
 	background-image: url('../images/palo.jpg');
 	background-size: 800px 600px;
